@@ -14,6 +14,11 @@ body {
   padding: 20px;
   background-color: #ff5f5f;
   color: #ffffff;
+  position: fixed;
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 100%;
 }
 
 .header h1 {
@@ -44,7 +49,7 @@ a {
 }
 
 main {
-  margin-top: 16px;
+  margin-top: 150px;
   margin-bottom: 16px;
 }
 
